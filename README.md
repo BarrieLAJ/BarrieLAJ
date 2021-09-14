@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Junior Frontend Developer from Sierra Leone. I build reach User Experiences (UX) with React.
-Passinate about developing reuseable React components.
+Passionate about developing reuseable React components.
 👯 I’m looking to contribute to open source and give back to the dev community.
 
-Does the above sound of intrest to you. Hit me up on any of the following
-🐤Twitter <a href="https://twitter.com/barrieLaj" target="_blank">@barrieLaj</a>
-✉ Email  <a mail="alhajiab.barrie@gmail.com" target="_blank">Alhaji Abubakarr Barrie</a>
+Sounds of intrest to you. Hit me up on here.
+🐤Twitter <a href="https://twitter.com/barrieLaj" target="new">@barrieLaj</a>
+✉ Email  <a href="mailto:alhajiab.barrie@gmail.com" target="new">Alhaji Abubakarr Barrie</a>
