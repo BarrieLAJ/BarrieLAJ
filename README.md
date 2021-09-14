@@ -19,5 +19,5 @@ Passinate about developing reuseable React components.
 👯 I’m looking to contribute to open source and give back to the dev community.
 
 Does the above sound of intrest to you. Hit me up on any of the following
-🐤Twitter [@barrieLaj](twitter.com/barrieLaj)
-✉ Email  [Alhaji Abubakarr Barrie](alhajiab.barrie@gmail.com)
+🐤Twitter <a href="https://twitter.com/barrieLaj" target="_blank">@barrieLaj</a>
+✉ Email  <a mail="alhajiab.barrie@gmail.com" target="_blank">Alhaji Abubakarr Barrie</a>
