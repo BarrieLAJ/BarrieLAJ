@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Frontend Developer from Sierra Leone. I love building reach User Experiences (UX).
-Passionate about developing reuseable components.
+A Frontend Engineer who loves building reach User Experiences (UX).
+Passionate about developing reuseable components(React).
 👯 I love solving problems and making this optimal.
 
 Sounds of intrest to you. Hit me up on here.
