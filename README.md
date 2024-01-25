@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 A Frontend Engineer who loves building reach User Experiences (UX).
 Passionate about developing reuseable components(React).
-👯 I love solving problems and making this optimal.
+👯 I love solving problems and making things optimal.
 
 Sounds of intrest to you. Hit me up on here.
 🐤Twitter <a href="https://twitter.com/Abarrie_potter" target="new">@barrieLaj</a>
