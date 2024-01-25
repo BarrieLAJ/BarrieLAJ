@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Junior Frontend Developer from Sierra Leone. I build reach User Experiences (UX) with React.
-Passionate about developing reuseable React components.
-👯 I’m looking to contribute to open source and give back to the dev community.
+I am a Frontend Developer from Sierra Leone. I love building reach User Experiences (UX).
+Passionate about developing reuseable components.
+👯 I love solving problems and making this optimal.
 
 Sounds of intrest to you. Hit me up on here.
 🐤Twitter <a href="https://twitter.com/Abarrie_potter" target="new">@barrieLaj</a>
